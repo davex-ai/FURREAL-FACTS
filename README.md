@@ -58,7 +58,7 @@
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/nxora/furreal-facts.git
+git clone https://github.com/dave-ai/furreal-facts.git
 cd furreal-facts
 2️⃣ Install Dependencies
 npm install
