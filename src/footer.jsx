@@ -17,16 +17,16 @@ function Footer() {
         <div className="flex gap-6 text-2xl">
           <a
             className="text-blue-400 hover:text-blue-300 transition"
-            href="https://www.facebook.com/davex.1011"
+            href="https://huggingface.co/davex-ai"
             target="_blank"
             rel="noopener noreferrer"
             aria-label="Facebook"
           >
-            <i className="fab fa-facebook"></i>
+            <i className="fas fa-smile"></i>
           </a>
           <a
             className="text-gray-300 hover:text-white transition"
-            href="https://www.github.com/nxora"
+            href="https://www.github.com/davex-ai"
             target="_blank"
             rel="noopener noreferrer"
             aria-label="GitHub"
@@ -34,13 +34,13 @@ function Footer() {
             <i className="fab fa-github"></i>
           </a>
           <a
-            className="text-yellow-400 hover:text-yellow-300 transition"
-            href="https://www.snapchat.com/@davex.101"
+            className=" text-white-400 hover:text-white-300 transition"
+            href="https://medium.com/@davex.ai"
             target="_blank"
             rel="noopener noreferrer"
             aria-label="Snapchat"
           >
-            <i className="fab fa-snapchat"></i>
+            <i className="fa-solid fa-blog"></i>
           </a>
         </div>
       </div>
